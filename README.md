@@ -4,3 +4,7 @@ fixed azureSubscriptionEndpoint error by creating Azure resource Manager service
 Install nginx ingress controller in pods. u can use helm but directly installing in pod is much easier n quick as only one liner command to run.
 
 
+Ingress = routing layer (decides where traffic goes).
+NGINX in pod = reads index.html file and delivers the content.
+
+
